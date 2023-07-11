@@ -1,4 +1,4 @@
-#!/bin/user/python3
+#!/bin/user/env python3
 """ Async Generator """
 import asyncio
 import random
